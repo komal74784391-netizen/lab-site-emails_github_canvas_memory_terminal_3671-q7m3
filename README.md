@@ -1,2 +1,3 @@
-# lab-site-emails_github_canvas_memory_terminal_3671-q7m3
-Academic lab website
+# Adaptive Systems Lab website
+
+Static site for the Adaptive Systems Lab. Publication entries live in `_publications/` as Markdown files with YAML front matter. Do not edit the venue, status, author, title or sponsor fields when updating code links.

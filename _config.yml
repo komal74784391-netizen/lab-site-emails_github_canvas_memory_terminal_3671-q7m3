@@ -1,0 +1,8 @@
+title: Adaptive Systems Lab
+description: Research on adaptive machine learning systems
+baseurl: ""
+url: ""
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
